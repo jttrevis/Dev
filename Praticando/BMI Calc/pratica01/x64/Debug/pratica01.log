@@ -1,0 +1,3 @@
+﻿  Origem.cpp
+C:\Dev\Praticando\pratica01\pratica01\Origem.cpp(8,1): warning C4326: tipo de retorno de 'main' deve ser 'int' em vez de 'void'
+  pratica01.vcxproj -> C:\Dev\Praticando\pratica01\x64\Debug\pratica01.exe
