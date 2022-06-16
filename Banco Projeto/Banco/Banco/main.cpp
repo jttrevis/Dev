@@ -6,6 +6,7 @@
 #include "ContaPoupanca.hpp"
 #include "Pessoa.hpp"
 #include "Funcionario.hpp"
+#include "ContaCorrente.h"
 
 using namespace std;
 int numeroDeContas;
@@ -26,15 +27,18 @@ int main()
 
     Cpf cpf("12312554");
     Titular titular(cpf, "Junior");
-    Conta umaConta(cpf, titular);
+    ContaCorrente umaConta(cpf, titular);
     umaConta.depositar(500);
     RealizaSaque(umaConta);
+    
+
 
     Titular novoTitular(cpf, "Angelica");
     ContaPoupanca contaDois(cpf, titular);
     contaDois.depositar(1200);
     RealizaSaque(contaDois);
 
+    umaConta.transferePara(contaDois,50);
 
 
     ExibeSaldo(contaDois);

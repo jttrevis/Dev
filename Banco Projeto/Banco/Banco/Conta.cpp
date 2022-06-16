@@ -13,6 +13,7 @@ Conta::Conta(Cpf cpf, Titular titular):
 }
 
 
+
 void Conta::sacar(float valorASacar)
 {
 	if (valorASacar < 0)
@@ -21,7 +22,7 @@ void Conta::sacar(float valorASacar)
 		return;
 	}
 
-	float tarifaDeSaque = valorASacar * 0.05f;
+	float tarifaDeSaque = valorASacar * taxaDeSaque();
 	float valorDoSaque = valorASacar + tarifaDeSaque;
 	if (valorASacar > saldo)
 	{

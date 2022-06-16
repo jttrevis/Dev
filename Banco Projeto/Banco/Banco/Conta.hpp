@@ -19,6 +19,6 @@ public:
 	void sacar(float valorASacar);
 	virtual void depositar(float valorADepositar);
 	float getSaldo() const;
-	
+	virtual float taxaDeSaque()const =0;
 };
 

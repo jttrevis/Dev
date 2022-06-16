@@ -1,0 +1,105 @@
+﻿  main.cpp
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(34,1): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(34,38): error C2988: declaração/definição de template irreconhecível
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(34,38): error C2143: erro de sintaxe: ',' ausente antes de '&'
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(37,6): error C3861: 'file': identificador não encontrado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(37,20): error C3861: 'key': identificador não encontrado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(39,3): error C3861: 'setting': identificador não encontrado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(40,3): error C2065: 'LOG': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(40,3): error C3861: 'LOG': identificador não encontrado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(40,10): error C3861: 'key': identificador não encontrado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(40,30): error C3861: 'setting': identificador não encontrado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(44,3): error C2065: 'LOG': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(44,3): error C3861: 'LOG': identificador não encontrado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(44,24): error C3861: 'key': identificador não encontrado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(44,70): error C3861: 'setting': identificador não encontrado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(51,2): error C2065: 'LOG': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(51,24): error C2065: 'SETTINGS_FILE_NAME': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(52,2): error C2065: 'IniFile': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(52,10): error C2146: erro de sintaxe: ';' ausente antes do identificador 'file'
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(52,10): error C2065: 'file': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(53,2): error C2065: 'file': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(53,12): error C2065: 'SETTINGS_FILE_NAME': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(60,24): error C2065: 'SETTINGS': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(68,2): error C2065: 'SETTINGS': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(69,15): error C2144: erro de sintaxe: 'bool' deve ser precedido por ')'
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(69,2): error C3861: 'LOAD_SETTING': identificador não encontrado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(69,15): error C2144: erro de sintaxe: 'bool' deve ser precedido por ';'
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(69,19): error C2059: erro de sintaxe: ','
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(69,26): error C2059: erro de sintaxe: ')'
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(70,15): error C2144: erro de sintaxe: 'bool' deve ser precedido por ')'
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(70,2): error C3861: 'LOAD_SETTING': identificador não encontrado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(70,15): error C2144: erro de sintaxe: 'bool' deve ser precedido por ';'
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(70,19): error C2059: erro de sintaxe: ','
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(70,26): error C2059: erro de sintaxe: ')'
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(71,15): error C2144: erro de sintaxe: 'bool' deve ser precedido por ')'
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(71,2): error C3861: 'LOAD_SETTING': identificador não encontrado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(71,15): error C2144: erro de sintaxe: 'bool' deve ser precedido por ';'
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(71,19): error C2059: erro de sintaxe: ','
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(71,30): error C2059: erro de sintaxe: ')'
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(75,2): error C2653: 'InputManager': não é um nome de classe ou de namespace
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(75,16): error C2065: 'Controller': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(75,28): error C2065: 'c': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(75,36): error C2653: 'InputManager': não é um nome de classe ou de namespace
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(75,50): error C2061: erro de sintaxe: identificador 'Controller'
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(77,2): error C2065: 'c': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(77,12): error C2065: 'SDL_SCANCODE_X': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(77,28): error C2065: 'BUTTON_A': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(78,2): error C2065: 'c': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(78,12): error C2065: 'SDL_SCANCODE_Z': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(78,28): error C2065: 'BUTTON_B': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(79,2): error C2065: 'c': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(79,12): error C2065: 'SDL_SCANCODE_DOWN': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(79,31): error C2065: 'BUTTON_DOWN': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(80,2): error C2065: 'c': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(80,12): error C2065: 'SDL_SCANCODE__LEFT': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(80,32): error C2065: 'BUTTON_LEFT': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(81,2): error C2065: 'c': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(81,12): error C2065: 'SDL_SCANCODE_RIGHT': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(81,32): error C2065: 'BUTTON_RIGHT': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(82,2): error C2065: 'c': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(82,12): error C2065: 'SDL_SCANCODE_UP': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(82,29): error C2065: 'BUTTON_UP': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(83,2): error C2065: 'c': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(83,12): error C2065: 'SDL_SCANCODE_BACKSPACE': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(83,36): error C2065: 'BUTTON_SELECT': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(84,2): error C2065: 'c': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(84,12): error C2065: 'SDL_SCANCODE_RETURN': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(84,33): error C2065: 'BUTTON_START': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(97,2): error C2065: 'INPUT_MANAGER': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(97,30): error C2065: 'c': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(99,2): error C2065: 'LOG': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(99,32): error C2065: 'SETTINGS_FILE_NAME': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(107,15): error C2065: 'SDL_INIT_VIDEO': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(107,32): error C2065: 'DSL_INIT_JOYSTICK': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(107,6): error C3861: 'SDL_Init': identificador não encontrado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(113,16): error C2065: 'MIX_INIT_OGG': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(113,7): error C3861: 'Mix_Init': identificador não encontrado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(113,29): error C2143: erro de sintaxe: ')' ausente antes de 'constante'
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(113,33): error C2065: 'MIX_INIT_OGG': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(113,45): error C2059: erro de sintaxe: ')'
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(115,52): error C2059: erro de sintaxe: ';'
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(119,11): error C4430: faltando especificador de tipo - int assumido. Observação: C++ não suporta default-int
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(120,3): error C2059: erro de sintaxe: 'return'
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(121,1): error C2059: erro de sintaxe: '}'
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(121,1): error C2143: erro de sintaxe: ';' ausente antes de '}'
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(129,1): error C2143: erro de sintaxe: ';' ausente antes de '{'
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(129,1): error C2447: '{': faltando cabeçalho de função (lista formal de estilo antigo?)
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(151,2): error C3861: 'createGlobals': identificador não encontrado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(153,2): error C2065: 'LOG': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(155): error C2317: bloco 'try' começando na linha '155' não possui manipuladores catch
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(162,24): error C2065: 'SDL_GL_DOUBLEBUFFER': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(162,4): error C3861: 'SDL_GL_SetAttribute': identificador não encontrado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(163,2): error C2065: 'window': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(164,3): error C2065: 'GAME_TITLE': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(165,3): error C2065: 'SDL_WINDOWPOS_CENTERED': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(166,3): error C2065: 'SDL_WINDOWPOS_CENTERED': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(167,3): error C2065: 'SETTINGS': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(168,3): error C2065: 'SETTING': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(169,3): error C2065: 'SDL_WINDOW_OPENGL': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(169,24): error C2065: 'SETTINGS': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(169,46): error C2065: 'SDL_WINDOW_FULLSCREEN': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(163,11): error C3861: 'SDL_CreateWindow': identificador não encontrado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(172,6): error C2065: 'window': identificador não declarado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(174,9): error C3861: 'Exception': identificador não encontrado
+C:\Dev\PraticandoCpp\Clonando_mario\Clonando_mario\main.cpp(174,61): fatal error C1003: contador de erros excede 100; interrompendo compilação

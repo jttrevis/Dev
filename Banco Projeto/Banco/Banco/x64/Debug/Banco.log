@@ -1,2 +1,15 @@
-﻿  main.cpp
-  Banco.vcxproj -> C:\Dev\Banco Projeto\Banco\x64\Debug\Banco.exe
+﻿  Caixa.cpp
+C:\Dev\Banco Projeto\Banco\Banco\Caixa.cpp(13,22): warning C4244: 'return': conversion from 'double' to 'float', possible loss of data
+  Funcionario.cpp
+C:\Dev\Banco Projeto\Banco\Banco\Caixa.h(5,1): error C2504: 'Funcionario': base class undefined
+  Gerente.cpp
+C:\Dev\Banco Projeto\Banco\Banco\Gerente.h(4,1): error C2504: 'Funcionario': base class undefined
+C:\Dev\Banco Projeto\Banco\Banco\Gerente.h(7,13): error C2061: syntax error: identifier 'Cpf'
+C:\Dev\Banco Projeto\Banco\Banco\Caixa.h(5,1): error C2504: 'Funcionario': base class undefined
+C:\Dev\Banco Projeto\Banco\Banco\Gerente.cpp(8,60): error C2511: 'Gerente::Gerente(Cpf,std::string,float)': overloaded member function not found in 'Gerente'
+C:\Dev\Banco Projeto\Banco\Banco\Gerente.h(2): message : see declaration of 'Gerente'
+C:\Dev\Banco Projeto\Banco\Banco\Gerente.cpp(8,93): error C2550: 'Gerente::{ctor}': constructor initializer lists are only allowed on constructor definitions
+C:\Dev\Banco Projeto\Banco\Banco\Gerente.cpp(15,9): error C3861: 'getSalario': identifier not found
+  main.cpp
+C:\Dev\Banco Projeto\Banco\Banco\Caixa.h(5,1): error C2504: 'Funcionario': base class undefined
+  Generating Code...

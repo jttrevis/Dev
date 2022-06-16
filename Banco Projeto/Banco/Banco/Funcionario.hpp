@@ -2,6 +2,7 @@
 #include "Pessoa.hpp"
 #include "Cpf.hpp"
 #include <string>
+#include "Caixa.h"
 
 class Funcionario : public Pessoa
 {
@@ -10,5 +11,8 @@ private:
 
 public:
     Funcionario(Cpf cpf, std::string nome, float salario);
-    std::string recuperaNome();
+    std::string recuperaNome()const;
+    virtual float bonificacao() const;
+    float getSalario() const;
 };
+
